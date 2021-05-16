@@ -7,9 +7,11 @@
 
 
 class my_vector {
+    private:
+        size_t size_vec;
     public:
         int *array;
-        size_t size_vec;
+
 
         my_vector();
         my_vector(const my_vector& other);
