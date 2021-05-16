@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/STUDIA/SEMESTR4/Algorytmy/Cwiczenia/my_vector/main.cpp
+iostream
+-
+my_vector.h
+D:/STUDIA/SEMESTR4/Algorytmy/Cwiczenia/my_vector/my_vector.h
+
+D:/STUDIA/SEMESTR4/Algorytmy/Cwiczenia/my_vector/my_vector.h
+
